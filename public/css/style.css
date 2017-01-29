@@ -36,6 +36,11 @@ float: left;
 .header{
 	margin-top: 160px;
 	margin-bottom: 40px;
+	background: rgba(0,0,0,0.3);
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	border-radius: 30px;
+	box-shadow: 0px 0px 100px 10px rgba(0,0,0,0.4);
 }
 
 
